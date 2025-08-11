@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-11T21:41:26 IST" name="Suite" finished-at="2025-08-11T21:42:00 IST" duration-ms="34238">
+    <groups>
+    </groups>
+    <test started-at="2025-08-11T21:41:26 IST" name="Test" finished-at="2025-08-11T21:42:00 IST" duration-ms="34238">
+      <class name="tests.AddtoCartTest">
+        <test-method signature="add()[pri:0, instance:tests.AddtoCartTest@4c2bb6e0]" started-at="2025-08-11T21:42:00 IST" name="add" finished-at="2025-08-11T21:42:00 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- tests.AddtoCartTest -->
+      <class name="tests.FilteringProductsTests">
+        <test-method signature="filter()[pri:0, instance:tests.FilteringProductsTests@222a59e6]" started-at="2025-08-11T21:41:42 IST" name="filter" finished-at="2025-08-11T21:41:49 IST" duration-ms="7336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter -->
+      </class> <!-- tests.FilteringProductsTests -->
+      <class name="tests.ProductSearchTest">
+        <test-method is-config="true" signature="driverini()[pri:0, instance:tests.ProductSearchTest@9cb8225]" started-at="2025-08-11T21:41:26 IST" name="driverini" finished-at="2025-08-11T21:41:37 IST" duration-ms="10601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverini -->
+        <test-method signature="search()[pri:0, instance:tests.ProductSearchTest@9cb8225]" started-at="2025-08-11T21:41:37 IST" name="search" finished-at="2025-08-11T21:41:42 IST" duration-ms="5001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- tests.ProductSearchTest -->
+      <class name="tests.ProductClickTest">
+        <test-method signature="productselect()[pri:0, instance:tests.ProductClickTest@6c7a164b]" started-at="2025-08-11T21:41:49 IST" name="productselect" finished-at="2025-08-11T21:42:00 IST" duration-ms="10276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productselect -->
+      </class> <!-- tests.ProductClickTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
